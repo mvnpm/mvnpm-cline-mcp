@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mvnpm": {
+      "type": "http",
+      "url": "https://mvnpm.org/mcp"
+    }
+  }
+}
